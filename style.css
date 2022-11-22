@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid rgb(126, 124, 124);
+    box-shadow: 2px 3px 3px 2px rgb(132, 128, 128);
+
+} 
+.bg{
+    background-color: rgba(213, 211, 211, 0.904);
+    border-radius: 0px 70px 0px 70px;
+    
+}
+.align{
+    margin-left: 50px;
+}
+.line{
+  color: rgb(32, 67, 81);
+  line-height: 10px;
+}
+.edu{
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.im{
+    border-radius: 40%;
+}
+h1{
+    color: rgb(44, 140, 208);
+}
+.per{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.name{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    
+}
